@@ -1,0 +1,25 @@
+{
+  "name": "git-and-webpack",
+  "version": "1.0.0",
+  "description": "ls -- list of files in current directory;\r cd -- change directory;\r git init -- initialize gits;",
+  "privet": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorozOleh/git-and-webpack.git"
+  },
+  "author": "Oleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorozOleh/git-and-webpack/issues"
+  },
+  "homepage": "https://github.com/MorozOleh/git-and-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  }
+}

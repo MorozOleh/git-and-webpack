@@ -54,3 +54,8 @@ Always when we do some commits we must push the latest changes;
 
 when we want to get the latest change from GitHub we type the next command:
 git pull; well receive all changes;
+//------------------------------------------------------------------------------
+
+configuration for webpack;
+
+npm install --save-dev style-loader css-loader
